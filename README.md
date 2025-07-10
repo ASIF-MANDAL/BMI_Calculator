@@ -53,7 +53,7 @@ flutter run
 
 You can download the latest APK and try the app on your Android device:
 
-👉 **[Download BMI App APK](https://github.com/your-username/flutter-bmi-app/releases/latest/download/app-release.apk)**
+👉 **[Download BMI App APK](https://github.com/ASIF-MANDAL/BMI_Calculator/releases/download/v0.1.0/app-release.apk)**
 
 > Make sure to allow installs from unknown sources on your phone to install the APK.
 
