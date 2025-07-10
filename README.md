@@ -3,9 +3,21 @@
 A beautifully designed **BMI Calculator App** built using Flutter.  
 This app allows users to calculate their Body Mass Index (BMI) by entering their height and weight, with support for different units (cm, inch, feet).
 
-<img src="assets/screenshots/bmi_preview.png" width="400" alt="BMI App Screenshot" />
-<img src="assets/screenshots/home_page.png" width="400" alt="BMI App Screenshot" />
-<img src="assets/screenshots/result_page.png" width="400" alt="BMI App Screenshot" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/home_page.png" width="300" />
+      <br/>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/result_page.png" width="300" />
+      <br/>
+      <b>Result Screen</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -35,3 +47,11 @@ git clone https://github.com/ASIF-MANDAL/BMI_Calculator.git
 cd BMI_Calculator
 flutter pub get
 flutter run
+
+## 📥 Download APK
+
+You can download the latest APK and try the app on your Android device:
+
+👉 **[Download BMI App APK](https://github.com/your-username/flutter-bmi-app/releases/latest/download/app-release.apk)**
+
+> Make sure to allow installs from unknown sources on your phone to install the APK.
