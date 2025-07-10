@@ -6,14 +6,14 @@ This app allows users to calculate their Body Mass Index (BMI) by entering their
 <table>
   <tr>
     <td align="center">
-      <img src="assets/screenshots/home_page.png" width="300" />
-      <br/>
-      <b>Home Screen</b>
-    </td>
-    <td align="center">
       <img src="assets/screenshots/result_page.png" width="300" />
       <br/>
       <b>Result Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/home_page.png" width="300" />
+      <br/>
+      <b>Home Screen</b>
     </td>
   </tr>
 </table>
