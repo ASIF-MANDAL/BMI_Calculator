@@ -4,6 +4,8 @@ A beautifully designed **BMI Calculator App** built using Flutter.
 This app allows users to calculate their Body Mass Index (BMI) by entering their height and weight, with support for different units (cm, inch, feet).
 
 <img src="assets/screenshots/bmi_preview.png" width="400" alt="BMI App Screenshot" />
+<img src="assets/screenshots/home_page.png" width="400" alt="BMI App Screenshot" />
+<img src="assets/screenshots/result_page.png" width="400" alt="BMI App Screenshot" />
 
 ---
 
